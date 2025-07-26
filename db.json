@@ -1,0 +1,20 @@
+[
+  {
+    "id": "67155631-5138-4776-854a-5b48bbd560fe",
+    "title": "hola",
+    "startDate": "2025-07-26",
+    "endDate": null,
+    "description": "gg",
+    "owner": "Carlos",
+    "calendarType": "private"
+  },
+  {
+    "id": "ec32bc95-dbef-4174-9524-f0758dfa35a4",
+    "title": "Reclamar billete en atocha",
+    "startDate": "2025-07-28",
+    "endDate": null,
+    "description": "Reclamar billete en atocha",
+    "owner": "Carlos",
+    "calendarType": "public"
+  }
+]
